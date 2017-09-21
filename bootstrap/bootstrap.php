@@ -13,6 +13,6 @@ require 'services/Connection.php';
 require 'services/QueryBuilder.php';
 
 $pdo = Connection::connect();
-//comentari
+//comentari2
 
 $query = new QueryBuilder($pdo);

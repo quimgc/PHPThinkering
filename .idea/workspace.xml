@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08dcfaa-d91d-4ad7-9236-e5ecf90f4c5c" name="Default" comment="" />
+    <list default="true" id="a08dcfaa-d91d-4ad7-9236-e5ecf90f4c5c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/bootstrap.php" afterPath="$PROJECT_DIR$/bootstrap/bootstrap.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +85,7 @@
             <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="180">
-                  <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+                  <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
                   <folding />
                 </state>
               </provider>
@@ -255,12 +257,12 @@
       <workItem from="1505923524989" duration="7000" />
       <workItem from="1505934164250" duration="3526000" />
       <workItem from="1505944082024" duration="18000" />
-      <workItem from="1506016912990" duration="898000" />
+      <workItem from="1506016912990" duration="1207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20317000" />
+    <option name="totallyTimeSpent" value="20626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -689,7 +691,7 @@
     <entry file="file://$PROJECT_DIR$/bootstrap/bootstrap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding />
         </state>
       </provider>
